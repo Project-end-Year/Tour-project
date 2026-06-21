@@ -1,7 +1,7 @@
 ## Setup After Cloning
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Project-end-Year/Tour-project.git>
 cd Tour-project
 
 composer install
